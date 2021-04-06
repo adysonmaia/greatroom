@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GREat Room</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id"></string>
+
+    <string name="group_activity_label">Grupo</string>
+    <string name="persons_activity_label">Pessoas</string>
+    <string name="files_activity_label">Arquivos</string>
+    <string name="menu_delete">Apagar</string>
+
+    <string-array name="group_content">
+        <item>Pessoas</item>
+        <item>Arquivos</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+{
+    "database": {
+        "host": "",
+        "dbname": "greatRoom",
+        "username": "",
+        "password": "",
+        "unix_socket": true
+    },
+    "session": {
+        "name": "greatroom_session"
+    },
+    "upload": {
+    	"path": "gs://greatroom_files/",
+    	"bucket": "greatroom_files"
+    },
+    "gcm": {
+        "url": "https://android.googleapis.com/gcm/send",
+        "api_key": ""
+    }
+}
